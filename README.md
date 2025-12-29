@@ -30,7 +30,7 @@ Este projeto **não promete segurança absoluta**, pois qualquer conteúdo rende
 
 ```
 
-Hencrypt/
+hcn/
 │   ├── **init**.py
 │   ├── **HCN**.py
 │   ├── **ENCRYPTION**.py
