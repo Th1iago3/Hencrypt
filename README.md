@@ -31,8 +31,6 @@ Este projeto **não promete segurança absoluta**, pois qualquer conteúdo rende
 ```
 
 Hencrypt/
-│
-├── hcn/
 │   ├── **init**.py
 │   ├── **HCN**.py
 │   ├── **ENCRYPTION**.py
@@ -42,10 +40,6 @@ Hencrypt/
 │       ├── **VIEWER**.py
 │       ├── **VIRTUAL**.py
 │       └── **DECRYPTOR**.py
-│
-├── index.html
-├── server.py
-└── README.md
 
 ````
 
@@ -54,13 +48,6 @@ Hencrypt/
 ## Requisitos
 
 - Python 3.8 ou superior
-- Flask (para testes locais)
-
-Instalação da dependência de teste:
-
-```bash
-pip install flask
-````
 
 ---
 
