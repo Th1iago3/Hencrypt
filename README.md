@@ -1,6 +1,4 @@
 ---
-
-```markdown
 <div align="center">
 
 # 🔐 Hencrypt (HCN)
@@ -230,6 +228,4 @@ Ideias para futuras versões:
 🛡️ **Hencrypt – dificulte, não prometa o impossível**
 
 </div>
-```
-
 ---
